@@ -1,3 +1,2 @@
-# Supervised Learning
-
- Content for Udacity's Supervised Learning project under Machine Learning with Pytorch Nanodegree.
+# Machine Learning with Pytorch
+ Content for projects of Machine Learning with Pytorch Nanodegree.
